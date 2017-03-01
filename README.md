@@ -1,0 +1,1 @@
+# wp-upload-image-front
